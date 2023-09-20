@@ -12,7 +12,6 @@ A blockchain bridge for import and export of nfts including 3d models, tokens, p
 </div>
 
 <br />
-
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
