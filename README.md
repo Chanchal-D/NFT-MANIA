@@ -1,6 +1,5 @@
 # NFT-MANIA
-<br />
-![desktop](https://github.com/Chanchal-D/NFT-MANIA/assets/117251667/4a8db051-2dd0-4a05-8d6e-77026011daf0)
+<br />![desktop](https://github.com/Chanchal-D/NFT-MANIA/assets/117251667/4a8db051-2dd0-4a05-8d6e-77026011daf0)
 
 <br />
 
