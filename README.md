@@ -1,6 +1,8 @@
 # NFT-MANIA
 A blockchain bridge for import and export of nfts including 3d models, tokens, play cards, digital marketing and also use open AI for the generation of metabase.
-<br />
+
+<br />![desktop](https://github.com/Chanchal-D/NFT-MANIA/assets/117251667/4a8db051-2dd0-4a05-8d6e-77026011daf0)
+
 <br />
 
   <h2 align="center">MNFT-MANIA Transforming digital assets into valauable investments</h2>
